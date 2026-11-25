@@ -1,0 +1,9 @@
+# Dependencies & build output
+node_modules/
+dist/
+.vite/
+
+# Local environment & logs
+.env
+.env.*
+*.log

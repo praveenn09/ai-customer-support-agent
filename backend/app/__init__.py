@@ -1,0 +1,1 @@
+"""SupportDesk FastAPI backend package."""
